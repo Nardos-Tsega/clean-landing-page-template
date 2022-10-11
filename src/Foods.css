@@ -4,6 +4,7 @@
     font-size: 34px;
     padding-bottom: 10px;
 }
+
 .ulFoods {
     list-style-type: none;
     padding: 0;
@@ -40,6 +41,7 @@
 .foodDesc {
     margin: 0;
 }
+
 .foodPrice {
     margin: 0;
     color: rgba(85, 191, 233, 0.993);
